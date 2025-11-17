@@ -21,7 +21,7 @@ Tugas Tracker is a simple website designed to help you manage your classes and k
 
 ## Folder Structure 📂
 
-'''
+```
 src/  
 ├── assets/ # images, icons  
 ├── components/ # reusable UI (TaskCard, Navbar, etc.)  
@@ -35,4 +35,4 @@ src/
 ├── App.css # app styling  
 ├── main.jsx # entry point  
 └── index.css # global CSS
-'''
+```
