@@ -10,13 +10,13 @@ Tugas Tracker is a simple website designed to help you manage your classes and k
 - **Task Management**  
   Link each of your tasks to a specific class with name, deadline, and details.
 
-- **Task Tracker**
-  Give your tasks statues: Not Started (of course it hasn't), In Progress (barely), or Completed (rare event)
+- **Task Tracker**  
+  Give your tasks statuses: Not Started (of course it hasn't), In Progress (barely), or Completed (rare event)
 
-- **Grade Calculator**
+- **Grade Calculator**  
   Tells you whether you're going to pass or if you're cooked.
 
-- **Skip Tracker**
+- **Skip Tracker**  
   Helps you decide if you should go to class or just sleep in.
 
 ## Folder Structure 📂
