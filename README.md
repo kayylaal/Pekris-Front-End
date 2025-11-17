@@ -1,22 +1,22 @@
 # Tugas Tracker 📓
 
-Tugas Tracker is a simple website designed to help you manage your classes and keep track of your assignments through the semester. Instead of relying on different tracking apps, notes, or just vibes, this website puts everything you need in one place.
+Tugas Tracker is a simple website designed to help you manage your classes and keep track of your tasks through the semester. Instead of relying on different tracking apps, notes, or just vibes, this website puts everything you need in one place.
 
 ## Features 💡
 
-- **Manajemen Mata Kuliah (CRUD)**  
+- **Class Management**  
   Easily add, view, update, or delete your classes. 
 
-- **Manajemen Tugas (CRUD)**  
+- **Task Management**  
   Link each of your tasks to a specific class with name, deadline, and details.
 
-- **Tracker Tugas**  
+- **Task Tracker**  
   Give your tasks statuses: Not Started (of course it hasn't), In Progress (barely), or Completed (rare event)
 
-- **Kalkulator Nilai**  
+- **Grade Calculator**  
   Tells you whether you're going to pass or if you're cooked.
 
-- **Bolos Tracker**  
+- **Skip Tracker**  
   Helps you decide if you should go to class or just sleep in.
 
 ## Folder Structure 📂
